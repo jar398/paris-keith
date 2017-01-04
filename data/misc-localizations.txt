@@ -1,0 +1,61 @@
+15474421	OGG1	4968	centriole
+15772089	RPGR	6103	centriole
+15772089	RPGRIP1	57096	centriole
+15632077	BRCTx	345499	centrosome
+15616186	Cep170	9859	centrosome
+15311285	Chk1	1111	centrosome
+15580290	CSPP	79848	centrosome
+15496406	Ecm29	23392	centrosome
+15731008	MKKS/BBS6	8195	centrosome
+15661758	nephrocystin-4	261734	centrosome
+15340007	ODF2	4957	centrosome
+15466260	OFD1	8481	centrosome
+15215892	Orc2	4999	centrosome
+15522227	Plk1	5347	centrosome
+15749021	PML3	5371	centrosome
+15546880	RABP1 (C19ORF5)	55201	centrosome
+15522227	Ran	5901	centrosome
+15520006	RGS14	10636	centrosome
+15572125	SAS-6	164786	centrosome
+15304323	TACC2	10579	centrosome
+15304323	TTK	7272	centrosome
+15705715	Big2	10564	centrosome, Golgi
+15670215	CG-NAP	10142	centrosome, Golgi
+15705715	Exo70	23265	centrosome, Golgi
+14569596	AKAP350	10142	centrosome,midbody
+14569596	Clic4	25932	centrosome,midbody
+14980504	CTCF	10664	midbody,centrosome
+15031677	KIF4	24137	midbody,midzone
+14729056	hSGT	6449	midzone,midbody
+15596447	NPM3	10360	nucleolus
+15556297	PAPA-1	83444	nucleolus
+16033705	EVI5	7813	centrosome
+16221885	UXT	8409	centrosome
+16246726	GIT1	28964	centrosome
+16339216	hamartin	7248	centrosome
+16246726	PAK1	5058	centrosome
+15467733	TMF/ARA160	7110	golgi
+16302001	KIAA1009	22832	spindle,centrosome
+16314388	FOP	11116	centrosome
+16314388	CAP350	9857	centrosome
+16378099	GCP-WD	121441	centrosome
+11694571	GCP2	10844	centrosome
+11694571	GCP3	10426	centrosome
+11694571	GCP4	27229	centrosome
+11694571	GCP5	114791	centrosome
+11694571	GCP6	85378	centrosome
+16179162	septin 1	1731	spindle pole
+16157330	TIP48		midzone,midbody,centrosome
+15800069	CD2AP		midzone
+15665297	CIAP1		midzone
+16376875	NPM		nuclear speckles
+16322234	Syk		centrosome
+16406728	CEP55		centrosome
+16406728	CEP55		cleavage furrow
+16406728	CEP55		midbody
+16406728	CEP55		midzone
+16198290	CEP55		midbody
+16198290	CEP55		centrosome
+16033705	EVI5	7813	centrosome
+16455074	LIMK2		cytoplasm, spindle, midzone
+16455074	LIMK1		spindle poles, cleavage furrow

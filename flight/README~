@@ -1,0 +1,27 @@
+This directory contains a program and datafile used in generating categories of human genes homologous to hits from RNAi screens found in the Flight database.
+
+1) Browse for screens of interest in 
+http://flight.licr.org/browse/browse_rnai.jsp
+2) Click on a screen of interest
+3) Create a file for the data; I used ###.txt, where ### is a serial number
+4) The first two lines should read
+PMID:####
+SCREEN:An RNAi Screen
+
+The first line specifies the PubMedId for the citation, which replaces ####
+The second line gives the description that will be placed in the category
+
+Example:
+
+PMID: 15547975
+SCREEN: Terminal Cytokinesis Events
+
+5) Copy-and-paste the data table from Flight below these two header lines
+
+6) When you have all the files set up, run
+
+flight.pl *.txt 
+
+7) A new flight.sigs file will be created
+
+

@@ -5,4 +5,4 @@ BSD license.
 
 BSD applies to the code.  Regarding the data, Millennium made no
 particular stipulation other than BSD, but keep in mind that copyright
-(and therefore BSD) only applied to creative expression.
+(and therefore BSD) only applies to creative expression.

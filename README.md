@@ -4,5 +4,5 @@ subsequently released by Millennium Pharmaceuticals under the 2-clause
 BSD license.
 
 BSD applies to the code.  Regarding the data, Millennium made no
-stipulation, but keep in mind that copyright (and therefore BSD) only
-covers creative work.
+particular stipulation other than BSD, but keep in mind that copyright
+(and therefore BSD) only applied to creative expression.
